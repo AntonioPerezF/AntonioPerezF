@@ -1,6 +1,6 @@
 # Hola, mi nombre es Antonio!! 👋
 
-## Ingeniero Mecánico  |  BIM Manager  | Desarrollador de Automatizacones en Softwares BIM
+## Ingeniero Mecánico  |  BIM Manager  | Desarrollador de Automatizaciones BIM
 
 ### ME PRESENTO 
 
