@@ -1,16 +1,15 @@
-### Hola, mi nombre es Antonio!! 👋
+# Hola, mi nombre es Antonio!! 👋
 
-<!--
-**AntonioPerezF/AntonioPerezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ingeniero Mecánico  |  BIM Manager  | Desarrollador de Automatizacones en Softwares BIM
 
-Here are some ideas to get you started:
+### ME PRESENTO 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo 10 años de experiencia en el sector AEC como **Ingeniero** y como **BIM Manager**. 
+
+Soy un apasionado de las nuevas tecnologías y siempre estoy en la busqueda continua del crecimiento profesional y personal. 
+
+Desde que comencé mi carrera profesional he estado formandome como desarrollador de automatizaciones en softwares BIM, comenzando por la programación visual. 
+
+Actualmente me enfoco en aprender todo lo que tenga que ver con trabajar con **datos aplicado a la metodlogía BIM**. Esta metodología esta siendo la punta de flecha en el proceso de transformación digital que esta sufriendo el sector AEC actualemente. Ademas de esto evidentemente siempre con la ayuda y con la mente puesta en integrar la IA en todo esto.
+
+Si quieres ponerte en contacto conmigo: [[LinkedIn](https://www.linkedin.com/in/antonioperezfloria)]
